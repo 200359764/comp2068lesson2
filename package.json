@@ -1,0 +1,22 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Doing things",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200359764/comp2068lesson2.git"
+  },
+  "author": "Seunghwan Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/200359764/comp2068lesson2/issues"
+  },
+  "homepage": "https://github.com/200359764/comp2068lesson2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
